@@ -5,5 +5,5 @@
 2. El ejercicio 10 está en la carpeta main, dentro del package inditex.kata, clase Exercise10
 3. En el package mencionado anteriormente, está la clase Main que crea una instancia de la clase Exercise10 y se llama al método nextGreaterNumber.
 4. Los tests están incluidos en la carpeta test, dentro del package inditex.kata
-    4. para los tests ejecutar el comando ``` gradlew test
+5. para los tests ejecutar el comando ``` gradlew test
                                     ```
